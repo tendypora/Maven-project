@@ -15,6 +15,6 @@ public class UserModel {
 
     private int code;
     private String userName;
-    private LocalDate bithday;
+    private LocalDate birthday;
     
 }
